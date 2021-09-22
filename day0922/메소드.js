@@ -14,6 +14,7 @@ let greetings = {
     }
 };
 
+console.log('12333')
 greetings.sayHello('Hyewon');
 greetings['sayHello']('Hyewon');
 
