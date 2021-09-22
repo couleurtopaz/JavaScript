@@ -18,7 +18,7 @@ function workDayCalc(startDate) {
     let dayDiff = timeDiff / 1000 / 60 / 60 / 24;
 
     console.log(`오늘은 입사한 지 ${dayDiff + 1}일째 되는 날 입니다.`);
-    console.log('123')
+    console.log('12333')
 
 
 }
