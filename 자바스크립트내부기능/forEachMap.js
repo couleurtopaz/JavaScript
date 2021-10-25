@@ -1,3 +1,6 @@
+
+
+
 const members = ['영훈', '윤수', '동욱', '신형'];
 
 for (let member of members) {
